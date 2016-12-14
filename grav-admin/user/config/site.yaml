@@ -1,0 +1,17 @@
+title: 'Taylor Fedt | UX Designer // Front-End Developer // Visual Designer'
+author:
+  name: 'Taylor Fedt'
+  email: taylor@ninedesign.co
+taxonomies:
+  - category
+  - tag
+metadata:
+  description: 'IX is a comprehensive collection of work, discussion topics, blog posts and media designed by Taylor Fedt. '
+  Keywords: 'Taylor, Fedt, portfolio, blog, freelance, web design, web development, ux design, nerd'
+summary:
+  enabled: true
+  format: short
+  size: 300
+  delimiter: '==='
+blog:
+  route: /blog

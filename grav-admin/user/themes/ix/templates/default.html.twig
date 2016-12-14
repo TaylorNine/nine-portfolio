@@ -1,0 +1,18 @@
+{% extends 'partials/base.html.twig' %}
+
+{% block content %}
+	{% include 'partials/intro.html.twig' %}
+	{% include 'partials/about.html.twig' %}
+
+	{% block portfolio %}
+			{% include 'partials/portfolio.html.twig' %}
+			{% include 'partials/portfolio-modals.html.twig' %}
+	{% endblock %}
+
+	{% block contact %}
+			{% include 'partials/contact.html.twig' %}
+	{% endblock %}
+	{% block footer %}
+		{% include 'partials/footer.html.twig' %}
+	{% endblock %}
+{% endblock %}

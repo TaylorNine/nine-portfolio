@@ -1,0 +1,26 @@
+This is licensed under the Attribution-ShareAlike 4.0 International (CC BY-SA 4.0)
+
+This means you can:
+Share — copy and redistribute the material in any medium or format
+Adapt — remix, transform, and build upon the material
+for any purpose, even commercially.
+
+The licensor cannot revoke these freedoms as long as you follow the license terms.
+
+License Terms:
+
+1. Attribution — You must give appropriate credit, provide a link to the license, and indicate 
+if changes were made. You may do so in any reasonable manner, but not in any way that suggests 
+the licensor endorses you or your use.
+
+Please attribute by adding a line of text in source code and a link in any project that uses this.
+Text - "(Based on/Used as is from) DankGray UI Kit v1.0.0 by Taylor Fedt"
+Link - "View Taylor Fedt's work at http://www.ninedesign.co or https://behance.net/TaylorFedt"
+
+2. ShareAlike — If you remix, transform, or build upon the material, you must distribute 
+your contributions under the same license as the original. 
+
+You cannot re-license any version of this UI Kit. It must be shared under the "Attribution-ShareAlike 4.0 International) license.
+
+3. Please don't claim my work as your own. However, if you do create something with it, please send it to taylor@ninedesign.co
+or to https://www.behance.net/TaylorFedt - I will proudly promote the work you make!

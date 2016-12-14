@@ -1,0 +1,31 @@
+@charset "UTF-8";
+
+/// Serif font stack.
+///
+/// @type List
+
+$serif: "Lato", "Cambria", "Times New Roman", "Times", serif;
+
+/// Sans-Serif font stack.
+///
+/// @type List
+
+$sans-serif: "proxima-nova", "Helvetica Neue", "Helvetica", "Roboto", "Arial", sans-serif;
+
+/// Lucida Grande font stack.
+///
+/// @type List
+
+$lucida-grande: "Lucida Grande", "Tahoma", "Verdana", "Arial", sans-serif;
+
+/// Monospace font stack.
+///
+/// @type List
+
+$monospace: "Bitstream Vera Sans Mono", "Consolas", "Courier", monospace;
+
+/// Verdana font stack.
+///
+/// @type List
+
+$verdana: "Verdana", "Geneva", sans-serif;
